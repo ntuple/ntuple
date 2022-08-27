@@ -1,16 +1,26 @@
-### Hi there 👋
+## About Me 👀 
 
-<!--
-**ntuple/ntuple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abhinav Singh Dangol, I have worked in the software industry since 2010. I have involved various roles in my career starting from a Drupal Theme developer, a software engineer all the way to Engineer team lead. I have worked for in-house software houses and design agencies, and predominantly focus on the backend stack. My currently focus is on Go, but I also have over 10 years of experience using PHP, Zend, Symfony and Laravel.
 
-Here are some ideas to get you started:
+* 💼 I'm currently working as an Engineering Team Lead for a team of 10 developers. The sector that i am currently working is fintech/insurance platform mainly focused on Insurance Ecom and Lead Generation. This is paying for services using your mobile phone bill. Our team is responsible for the intermediary layer between our 3rd parties (Mobile phone carriers) and our billing and subscription platform. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥞 Current Stack
+    * Go
+    * PHP
+    * GEK - Kubernetes managed by GCP
+    * Docker
+    * PostgreSQL
+    * GCP
+    * Microservices
+    * Github
+    * Jira / Confluence
+
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Go or PHP open source projects
+
+
+## Find out more about me 🔍 
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ntuple)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavsdangol/)
+
