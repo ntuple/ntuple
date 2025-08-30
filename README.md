@@ -4,7 +4,7 @@ My name is Abhinav Singh Dangol, I have worked in the software industry since 20
 
 💼 I'm currently working as an Engineering Team Lead for a team of 10 developers. The sector that i am currently working is fintech/insurance platform mainly focused on Insurance Ecom and Lead Generation. This is paying for services using your mobile phone bill. Our team is responsible for the intermediary layer between our 3rd parties (Mobile phone carriers) and our billing and subscription platform. 
 
-🥞 Current Stack
+- 🥞 Current Stack
     * Go
     * PHP
     * GEK - Kubernetes managed by GCP
