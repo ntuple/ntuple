@@ -18,7 +18,7 @@ My name is Abhinav Singh Dangol, I have worked in the software industry since 20
 😄 Pronouns: He/Him
 👯 I’m looking to collaborate on Go or PHP open source projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntuple&show_icons=true&theme=transparent)](https://github.com/ntuple)
+[![Ntuple's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntuple&show_icons=true&theme=transparent)](https://github.com/ntuple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntuple&layout=donut)](https://github.com/ntuple)
 
