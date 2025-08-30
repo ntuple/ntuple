@@ -21,7 +21,7 @@ My name is Abhinav Singh Dangol. I have worked in the software industry since 20
 [![Ntuple's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntuple&show_icons=true&theme=transparent)](https://github.com/ntuple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntuple&layout=donut)](https://github.com/ntuple)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntuple&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntuple&theme=transparent)](https://github.com/ntuple)
 
 ## Find out more about me 🔍 
 
